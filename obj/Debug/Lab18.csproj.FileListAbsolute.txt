@@ -1,0 +1,10 @@
+C:\Users\bolga\OneDrive\Рабочий стол\Lab18\bin\Debug\Lab18.exe.config
+C:\Users\bolga\OneDrive\Рабочий стол\Lab18\bin\Debug\Lab18.exe
+C:\Users\bolga\OneDrive\Рабочий стол\Lab18\bin\Debug\Lab18.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\Lab18\obj\Debug\Lab18.csprojAssemblyReference.cache
+C:\Users\bolga\OneDrive\Рабочий стол\Lab18\obj\Debug\Lab18.Form1.resources
+C:\Users\bolga\OneDrive\Рабочий стол\Lab18\obj\Debug\Lab18.Properties.Resources.resources
+C:\Users\bolga\OneDrive\Рабочий стол\Lab18\obj\Debug\Lab18.csproj.GenerateResource.cache
+C:\Users\bolga\OneDrive\Рабочий стол\Lab18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
+C:\Users\bolga\OneDrive\Рабочий стол\Lab18\obj\Debug\Lab18.exe
+C:\Users\bolga\OneDrive\Рабочий стол\Lab18\obj\Debug\Lab18.pdb
